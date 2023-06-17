@@ -1,0 +1,2 @@
+# TimeSeriesMan
+Practicisn time series 
