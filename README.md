@@ -1,2 +1,2 @@
 # TimeSeriesMan
-Practicisn time series 
+Practicing time series 
